@@ -2,6 +2,9 @@
 
 This project analyzes e-commerce sales data from platforms like Amazon, Flipkart, and Meesho.
 
+## Dashboard Link:
+https://lookerstudio.google.com/reporting/6e339b57-466b-4c34-9ae7-3d5254ffe463
+
 ## Tools Used
 - Google Looker Studio
 - Excel
